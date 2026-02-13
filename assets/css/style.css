@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+body {
+  background-color: #2c1ed0;
+}
+
 .container {
   min-height: 100vh;
 
@@ -12,5 +16,6 @@
   background-color: #fff;
   max-width: 500px;
   padding: 1rem;
+  border-radius: 0.8rem;
   box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.456);
 }
